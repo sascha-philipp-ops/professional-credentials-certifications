@@ -5,7 +5,7 @@ Detailübersicht zur Hersteller-Zertifizierung und den vermittelten Kernkompeten
 ---
 
 ## 📌 Zertifikats-Informationen
-- **Aussteller:** SAP (durchgeführt bei COMCAVE College)
+- **Aussteller:** SAP 
 - **Status:** Mit sehr gutem Erfolg bestanden (*Passed with Distinction*)
 - **Format:** Herstellerzertifikat
 
